@@ -1,0 +1,36 @@
+_repo: Browning-as-a-Philosophical-and-Religious-Teacher_13561
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jones, Henry, Sir
+    birthdate: 1852
+    deathdate: 1922
+    gutenberg_agent_id: '25654'
+    url: http://www.gutenberg.org/2009/agents/25654
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Jones_%28philosopher%29
+description: Robert Browning (1812-1889) was indubitably one of the great poets of
+  the Victorian era. But this book looks beyond the words. The purpose of this book
+  is to deal with Browning, not simply as a poet, but rather as the exponent of a
+  system of ideas on moral and religious subjects, which may fairly be called philosophy.
+  More than mere aesthetics, his works are reflections of his contemplations of religion
+  and morality.
+gutenberg_issued: '2004-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13561'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian poetry, English -- 19th century -- History and criticism'
+- !lcsh 'Browning, Robert, 1812-1889 -- Philosophy'
+- !lcc 'PR'
+- !lcsh 'Didactic poetry, English -- History and criticism'
+- !lcsh 'Browning, Robert, 1812-1889 -- Religion'
+- !lcsh 'Philosophy in literature'
+title: Browning as a Philosophical and Religious Teacher
+url: http://www.gutenberg.org/ebooks/13561
